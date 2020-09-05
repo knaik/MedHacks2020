@@ -22,3 +22,12 @@ and apt-get upgrade might. it's download 1 gig of files though
 https://www.raspberrypi.org/forums/viewtopic.php?t=235519
 
 will this work?
+
+I don't need any help specifically but I started working since the pitch presentation and my rPI gave me
+E: Sub-process returned an error code
+pi@raspberrypi:~ $ sudo apt-get upgrade
+Segmentation fault
+pi@raspberrypi:~ $ ls
+-bash: /bin/ls: Input/output error
+
+nope
