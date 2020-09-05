@@ -17,3 +17,11 @@ now I have a VM booted up and installing gparted to see what I can recover
 that did not work
 damn I have to deal with partitions
 335am sat
+
+finished reflashing
+now i have to resetup networking. and i will have to do that again at cousins
+house
+426am
+
+seems to have connected again
+
