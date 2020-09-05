@@ -1,0 +1,15 @@
+The wifi is supposedly connected but doesn't return a ping response it times out
+
+The card is readable 
+
+so the filesystem got corrupted. 
+
+
+E: Sub-process returned an error code
+pi@raspberrypi:~ $ sudo apt-get upgrade
+Segmentation fault
+pi@raspberrypi:~ $ ls
+-bash: /bin/ls: Input/output error
+
+
+now I have a VM booted up and installing gparted to see what I can recover
