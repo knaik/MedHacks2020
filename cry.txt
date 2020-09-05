@@ -25,3 +25,5 @@ house
 
 seems to have connected again
 
+430am
+i forgot to put the wifi adapter back on and was wondering why it didn't respond to a ping
