@@ -23,3 +23,11 @@ Not the safest way, but going for the fastest way.
 https://johannesbader.ch/blog/track-your-heartrate-on-raspberry-pi-with-ant/
 
 continued with rest of tutorial
+
+https://johannesbader.ch/blog/track-your-heartrate-on-raspberry-pi-with-ant/
+
+https://steele.blue/raspberry-pi-bike/	
+
+https://gist.github.com/baderj/c41d2bbe0aeded3506cf
+
+
