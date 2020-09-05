@@ -1,0 +1,25 @@
+https://johannesbader.ch/blog/track-your-heartrate-on-raspberry-pi-with-ant/
+
+dmesg 
+
+[    4.949793] systemd[1]: Detected architecture arm.
+[    5.050374] usb 1-1.3: New USB device found, idVendor=0fcf, idProduct=1008, bcdDevice= 1.00
+[    5.050397] usb 1-1.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[    5.050413] usb 1-1.3: Product: ANT USBStick2
+[    5.050429] usb 1-1.3: Manufacturer: Dynastream Innovations
+[    5.050445] usb 1-1.3: SerialNumber: 123
+
+lsusb
+
+Bus 001 Device 004: ID 0fcf:1008 Dynastream Innovations, Inc. ANTUSB2 Stick
+
+https://magpi.raspberrypi.org/articles/raspberry-pi-samba-file-server
+
+sudo apt update
+... more copy pasting so far
+
+Not the safest way, but going for the fastest way.
+
+https://johannesbader.ch/blog/track-your-heartrate-on-raspberry-pi-with-ant/
+
+continued with rest of tutorial
