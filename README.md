@@ -18,3 +18,7 @@ then heart recordings of myself with different genres
 x2go working!
 x2go broke at some point. vnc might work
 and apt-get upgrade might. it's download 1 gig of files though 
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=235519
+
+will this work?
