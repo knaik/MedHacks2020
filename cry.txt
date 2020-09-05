@@ -13,3 +13,7 @@ pi@raspberrypi:~ $ ls
 
 
 now I have a VM booted up and installing gparted to see what I can recover
+
+that did not work
+damn I have to deal with partitions
+335am sat
