@@ -12,3 +12,11 @@ now
 
 sun1250am
 I got distracted helping cousin fix his mic problems
+
+322am
+The wifi went out
+
+so what now
+
+
+I was really excited for this
