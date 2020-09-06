@@ -90,7 +90,7 @@ Free Download / Stream: http://ncs.io/Cyberpunk
 
 Elevator Music, Lift Music, No Copyright, Sound Effects Library, Royalty Free Sounds
 Creative Commons Attribution license (reuse allowed)
-https://www.youtube.com/watch?v=LmqvNegW7yY&t=13s
+https://www.youtube.com/watch?v=LmqvNegW7yY
 
 
 https://www.nasa.gov/mission_pages/apollo/apollo11_audio.html
