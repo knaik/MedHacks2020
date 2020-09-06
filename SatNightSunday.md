@@ -52,3 +52,63 @@ wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 
 VNC works
 3:50am
+
+
+
+
+TRACK
+CYBERPUNK
+ORIGINAL MIX
+
+$1.29
+
+  
+ARTISTS Max Brhon
+RELEASE
+
+LENGTH
+3:35
+RELEASED
+2019-08-30
+BPM
+110
+KEY
+E maj
+GENRE
+Electronica
+LABEL
+NCS
+
+When you are using this track, we simply ask that you put this in your description:
+
+Track: Max Brhon - Cyberpunk [NCS Release]
+Music provided by NoCopyrightSounds.
+Watch: https://youtu.be/iqoNoU-rm14
+Free Download / Stream: http://ncs.io/Cyberpunk
+
+
+
+Elevator Music, Lift Music, No Copyright, Sound Effects Library, Royalty Free Sounds
+Creative Commons Attribution license (reuse allowed)
+https://www.youtube.com/watch?v=LmqvNegW7yY&t=13s
+
+
+https://www.nasa.gov/mission_pages/apollo/apollo11_audio.html
+"The Eagle has landed":
+
+Aldrin: Altitude-velocity light. 3 1/2 down, 220 feet, 13 forward … forward. Coming down nicely. 200 feet, 4 1/2 down. 5 1/2 down. 5 1/2 down, 9 forward. That's good. 120 feet. 100 feet, 3 1/2 down, 9 forward. Five percent. Okay. 75 feet. There's looking good. Down a half, 6 forward.
+
+Mission control: 60 seconds [of fuel remaining].
+
+Aldrin: Lights on ... Down 2 1/2. Forward. Forward. Good. 40 feet, down 2 1/2. Kicking up some dust. 30 feet, 2 1/2 down. Faint shadow. 4 forward. 4 forward. Drifting to the right a little. Okay. Down a half.
+
+Mission Control: 30 seconds [of fuel remaining].
+
+Armstrong: Forward drift?
+
+Aldrin: Yes. Okay. Contact light. OK, engine stop.
+
+Armstrong: Houston, Tranquility Base here. The Eagle has landed.
+
+Mission Control: Roger, Tranquility. We copy you on the ground. You got a bunch of guys about to turn blue. We're breathing again. Thanks a lot.
+
